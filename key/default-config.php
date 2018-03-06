@@ -1,0 +1,10 @@
+<?php 
+$_PRODUCT_MAX = 10000;
+$_PRODUCT_IMAGE_MAX = 5;
+$_PRODUCT_FILE_MAX = 1;
+
+$_IMAGE_MAX_SIZE = pow(1024, 2);  
+$_FILE_MAX_SIZE =  pow(1024, 2);  
+
+$_USER_MAX = 1;
+?>

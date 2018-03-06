@@ -1,0 +1,7 @@
+@media print{
+body * { visibility: hidden; } 
+.print-area *{ visibility: visible;  }
+.print-area {position:absolute; top:0px; left:0px;}
+.report .data-panel .main-table {border:0; width:100% !important}
+.report .data-panel .main-table .table-header td {  background-color:#fff; color: #333; border-top:1px solid 333; border-bottom:1px solid #333;}
+}
